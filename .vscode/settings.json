@@ -4,4 +4,5 @@
         "--load-plugins=pylint_django",
         "--errors-only"
     ],
+    "files.autoSave": "afterDelay",
 }
